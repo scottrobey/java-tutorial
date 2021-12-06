@@ -6,6 +6,7 @@ Also to learn the basics of programming in a strongly-typed language like Java
 
 Who is this class designed for:
 * People new to Java and programming in general
+* Learn basics of coding in Java
 
 
 What this class doesn't include:
